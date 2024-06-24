@@ -1,5 +1,7 @@
 # AD2236机翻
 
+已有汉化组及个人跟进，本项目不再更新。
+
 下载补丁请前往 https://github.com/CSGA-KPX/2236-Translate/releases
 
 * **请勿在steam社区内发布打补丁后的游戏截图，根据发行商政策您可能会遭到处罚。**
